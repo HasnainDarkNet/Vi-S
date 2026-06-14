@@ -1,4 +1,5 @@
 # 🎯 HasnainDarkNet Remote Control
+<img width="992" height="492" alt="images" src="https://github.com/user-attachments/assets/a2140634-32ad-4a51-9699-351c0ed034f4" />
 
 ## ⚠️ DISCLAIMER
 **This tool is for educational and security research purposes only.**
